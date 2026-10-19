@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About🧭
+NKU Undergraduate in Information & Computing Science (AI Track)
