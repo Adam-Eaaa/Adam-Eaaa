@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### About🧭
-NKU Undergraduate in Information & Computing Science (AI Track)
+NKU Undergraduate in Information & Computing Science (AI Track).
+Currently Studying `Mathematics`.
